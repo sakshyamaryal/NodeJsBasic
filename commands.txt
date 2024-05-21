@@ -1,0 +1,13 @@
+npm init 
+
+npm install dotenv
+
+npm install --save-dev nodemon
+
+"dev": "nodemon server.js"
+
+npm start dev
+
+npm install express-async-handler
+
+npm install mongoose
